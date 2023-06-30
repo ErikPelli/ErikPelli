@@ -5,7 +5,7 @@
 
 - 📫 Contact me at the [e-mail address](mailto:erikpellizzon1@gmail.com)
 
-<img src="https://github-readme-stats.vercel.app/api?username=erikpelli&show_icons=true&theme=dark&count_private=true&locale=en" alt="erikpelli" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=erikpelli&show_icons=true&theme=dark&count_private=true&layout=compact&locale=en" alt="erikpelli" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
