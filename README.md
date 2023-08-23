@@ -1,9 +1,11 @@
 <h1 align="left">Erik Pellizzon</h1>
-<h3 align="left">Backend Software Engineer from Italy</h3>
+<h2 align="left">Backend Software Engineer from Italy</h2>
 
 - 👨‍💻 All of my projects are available at [my portfolio website](https://erikpelli.github.io)
 
-- 📫 Contact me at the [e-mail address](mailto:erikpellizzon1@gmail.com)
+<h2 align="left">Do you have any job proposal?</h2>
+
+- 📫 Contact me using the [e-mail address](mailto:erikpellizzon1@gmail.com)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erikpelli&theme=dark&layout=compact&locale=en" alt="erikpelli" />
 
