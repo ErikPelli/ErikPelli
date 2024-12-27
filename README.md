@@ -2,10 +2,11 @@
 <h2 align="left">Backend Software Engineer from Italy</h2>
 
 - 👨‍💻 All of my projects are available at [my portfolio website](https://erikpelli.pp.ua)
+- 🔗 Maintainer of [GoProxy](https://github.com/elazarl/goproxy) library, 6k+ stars!
 
 <h2 align="left">Do you have any job proposal?</h2>
 
-- 📫 Contact me using the [e-mail address](mailto:erikpelli@tutamail.com)
+- 📫 Contact me using my [e-mail address](mailto:erikpelli@tutamail.com)
 
 <img src="https://github-readme-stats.vercel.app/api?username=erikpelli&show_icons=true&hide_rank=true&theme=dark&locale=en" alt="erikpelli" />
 
